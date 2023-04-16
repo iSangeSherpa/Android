@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/black"
+    android:orientation="vertical">
+
+    <!--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-->
+
+    <fragment
+        android:id="@+id/fragmentExample"
+        android:name="np.edu.divyagyan.fragments.FragmentExample"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:tag="fragmentExample" />
+
+</LinearLayout>
